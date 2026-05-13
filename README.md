@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I'm a **Mathematics & Statistics** student at **NIT Warangal**, passionate about turning mathematical foundations into real-world data solutions. I'm actively building toward a career in **Data Science** and **Data Engineering**, with a particular focus on financial sector applications.
+I'm a **Mathematics & Scientific Computing ** student at **NIT Warangal**, passionate about turning mathematical foundations into real-world data solutions. I'm actively building toward a career in **Data Science** and **Data Engineering**, with a particular focus on financial sector applications.
 
 I believe in understanding *why* things work before reaching for the library — first principles first, abstractions second.
 
@@ -17,15 +17,14 @@ I believe in understanding *why* things work before reaching for the library —
 
 ## 🎓 Education
 
-**B.Sc. (Hons.) Mathematics & Statistics**
+**M.Sc. Mathematics & Scientific Computing**
 National Institute of Technology, Warangal
 
 **Relevant Coursework:**
-- Complex Variables (MA26028)
 - Probability & Statistics (MA16002)
 - Object-Oriented Programming with C++ (MA26002)
 - Mathematical Foundations of Computer Science / MFCS (MA26022)
-- Partial Differential Equations (MA16004)
+- Linear Algebra (MA16004)
 
 ---
 
@@ -57,12 +56,12 @@ National Institute of Technology, Warangal
 
 ## 📊 Projects
 
-### 🎬 Movies Dataset EDA
+### 🎬 Movies Dataset EDA *(In Progress)*
 > **Exploratory Data Analysis | Python · Pandas · Plotly · Seaborn · Streamlit**
 
 - Built a full EDA pipeline on a ~5,000-row movies dataset with engineered features: **ROI**, **inflation-adjusted revenue**, and **popularity score**
 - Solved multi-genre double-counting with **fair-share revenue attribution** via genre-exploding
-- Deployed as a **Streamlit web app** for interactive exploration
+- Will deploy as a **Streamlit web app** for interactive exploration
 - Part of my placement portfolio targeting Data Science roles
 
 ---
@@ -73,14 +72,6 @@ National Institute of Technology, Warangal
 - Collaborative project targeting **financial sector placements**
 - Four-week roadmap: ADF stationarity testing → feature engineering → ARIMA → XGBoost → LSTM
 - Data sourced from **yfinance**; goal is end-to-end forecasting with model comparison
-
----
-
-### 📐 R Statistics Lab Materials
-> **Statistical Computing | R · docx generation**
-
-- Serving as **Teaching Assistant** for the R Statistics Lab (MA26004)
-- Generating structured lab handouts with tricky output-prediction questions on control flow, statistical functions, and data manipulation in R
 
 ---
 
@@ -104,7 +95,7 @@ Machine Learning Roadmap
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/pradhuman-kumar-soni-0854362a0/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhuman-kumar-soni-0854362a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PradhumanSoni)
 [![Medium](https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://medium.com/@pradhumansoni2004)
 
