@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I'm a **Mathematics & Scientific Computing ** student at **NIT Warangal**, passionate about turning mathematical foundations into real-world data solutions. I'm actively building toward a career in **Data Science** and **Data Engineering**, with a particular focus on financial sector applications.
+I'm a **Mathematics & Scientific Computing** student at **NIT Warangal**, passionate about turning mathematical foundations into real-world data solutions. I'm actively building toward a career in **Data Science** and **Data Engineering**, with a particular focus on financial sector applications.
 
 I believe in understanding *why* things work before reaching for the library — first principles first, abstractions second.
 
@@ -24,7 +24,7 @@ National Institute of Technology, Warangal
 - Probability & Statistics (MA16002)
 - Object-Oriented Programming with C++ (MA26002)
 - Mathematical Foundations of Computer Science / MFCS (MA26022)
-- Linear Algebra (MA16004)
+- Linear Algebra (MA426023)
 
 ---
 
