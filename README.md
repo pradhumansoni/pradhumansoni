@@ -18,14 +18,6 @@ I believe in understanding *why* things work before reaching for the library —
 **M.Sc. Mathematics & Scientific Computing**
 National Institute of Technology, Warangal
 
-**Relevant Coursework:**
-- Probability & Statistics (MA16002)
-- Object-Oriented Programming with C++ (MA26002)
-- Mathematical Foundations of Computer Science / MFCS (MA26022)
-- Linear Algebra (MA426023)
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -47,32 +39,8 @@ National Institute of Technology, Warangal
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 📊 Projects
-
-### 🎬 Movies Dataset EDA *(In Progress)*
-> **Exploratory Data Analysis | Python · Pandas · Plotly · Seaborn · Streamlit**
-
-- Built a full EDA pipeline on a ~5,000-row movies dataset with engineered features: **ROI**, **inflation-adjusted revenue**, and **popularity score**
-- Solved multi-genre double-counting with **fair-share revenue attribution** via genre-exploding
-- Will deploy as a **Streamlit web app** for interactive exploration
-- Part of my placement portfolio targeting Data Science roles
-
----
-
-### 📈 Financial Time Series Analysis *(In Progress)*
-> **Time Series | Python · yfinance · ARIMA · XGBoost · LSTM**
-
-- Collaborative project targeting **financial sector placements**
-- Four-week roadmap: ADF stationarity testing → feature engineering → ARIMA → XGBoost → LSTM
-- Data sourced from **yfinance**; goal is end-to-end forecasting with model comparison
-
----
-
 ## 🧠 Currently Learning
 
 ```
