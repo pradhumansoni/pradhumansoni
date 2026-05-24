@@ -59,7 +59,6 @@ Machine Learning Roadmap
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PradhumanSoni)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pradhumansoni&show_icons=true&theme=radical)
 ## 📬 Connect with Me
 
 <div align="left">
@@ -67,7 +66,7 @@ Machine Learning Roadmap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhuman-kumar-soni-0854362a0/)
 [![Medium](https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://medium.com/@pradhumansoni2004)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradhumansoni&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
 
