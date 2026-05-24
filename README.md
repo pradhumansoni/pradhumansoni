@@ -59,6 +59,7 @@ Machine Learning Roadmap
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PradhumanSoni)](https://git.io/streak-stats)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=pradhumansoni&theme=radical)
 ## 📬 Connect with Me
 
 <div align="left">
