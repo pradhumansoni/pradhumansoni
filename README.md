@@ -67,6 +67,8 @@ Machine Learning Roadmap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhuman-kumar-soni-0854362a0/)
 [![Medium](https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://medium.com/@pradhumansoni2004)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradhumansoni&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
