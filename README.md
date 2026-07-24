@@ -44,13 +44,13 @@ National Institute of Technology, Warangal
 ## 🧠 Currently Learning
 
 ```
-Machine Learning Roadmap
-├── Linear Regression (OLS from first principles ✅)
-├── scikit-learn fundamentals ✅
-├── Feature Engineering & EDA ✅
-├── Time Series Analysis (ARIMA, XGBoost, LSTM) 🔄
+Data Science Roadmap
+├── Data Analytics ✅ 
+├── Machine Learning ✅ 
+├── SQL ✅
+├── Time Series Analysis (ARIMA, XGBoost, LSTM) ✅
 ├── Hypothesis Testing & Statistical Inference ✅
-└── Deep Learning (upcoming)
+└── Deep Learning (ongoing)
 ```
 
 **Resources I'm following:** CampusX "100 Days of ML" · StatQuest · Kaggle
